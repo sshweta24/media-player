@@ -1,1 +1,1 @@
-# media-playor
+# media-player
